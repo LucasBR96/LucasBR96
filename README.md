@@ -6,8 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- I’m currently learning Dart and Flutter
-- I’m looking to collaborate on AI, Operational Systems, Web Development
+- I’m looking to collaborate on AI.
 - He/Him
 - Discovered coding during college.
 
