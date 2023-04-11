@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - He/Him
 - Discovered coding during college.
 
-<div>
+<!-- <div>
   <a = href="https://github.com/LucasBR96">
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api?username=LucasBr96&hide=contribs,issues&theme=dark">
   <img height = "140em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=LucasBr96&theme=dark&hide=css&langs_count=6&layout=compact">
